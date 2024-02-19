@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **SurajSia/SurajSia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - <h3>📫 How to reach me: WTSAppMe-7569077569 </h3>
 - <h3> 😄 Pronouns: HE/HIM </h3>
 - <h3> ⚡ Fun fact: I STOPPED USING INSTA AFTER LEARNING ABOUT IP_ADDRESS TRACKERS </h3>
--->
+
 <h1 align="center">Hi 👋, I'm SurajSai</h1>
 <h3 align="center">Programmer & Computer Nerd from Tamil Nadu</h3>
 
