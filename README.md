@@ -1,5 +1,6 @@
 <--### Hi there 👋-->
 
+![hithere](https://github.com/SurajSia/SurajSia/assets/132142902/927c6a46-3977-4a0c-b3d4-6cf556d66c34)
 
 <--**SurajSia/SurajSia** is a ✨ _special_ ✨ repository!
 
@@ -9,7 +10,7 @@
 
 <h1 align="center">Hi 👋, I'm SurajSai</h1>
 <h3 align="center">Programmer & Computer Nerd from Tamil Nadu</h3>
-![hithere](https://github.com/SurajSia/SurajSia/assets/132142902/a4350836-a736-485f-9505-af26daf421ec)
+
 
 - <h3>🔭 I’m currently working on Automated KeyLogger with deadpoolstark3</h3>
 - <h3>🌱 I’m currently learning programming with RUST </h3>
