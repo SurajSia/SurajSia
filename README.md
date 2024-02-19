@@ -16,7 +16,7 @@
 - <h3>📫 How to reach me: WTSAppMe-7569077569 </h3>
 - <h3> 😄 Pronouns: HE/HIM </h3>
 - <h3> ⚡ Fun fact: I STOPPED USING INSTA AFTER LEARNING ABOUT IP_ADDRESS TRACKERS </h3>
-
+<div class="tenor-gif-embed" data-postid="10903984" data-share-method="host" data-aspect-ratio="1.22449" data-width="100%"><a href="https://tenor.com/view/batman-im-not-really-a-people-person-gif-10903984">Batman Im Not Really A People Person GIF</a>from <a href="https://tenor.com/search/batman-gifs">Batman GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center">Hi 👋, I'm SurajSai</h1>
 <h3 align="center">Programmer & Computer Nerd from Tamil Nadu</h3>
 
