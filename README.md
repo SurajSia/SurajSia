@@ -1,9 +1,11 @@
-### Hi there 👋
+<--### Hi there 👋-->
 
 
-**SurajSia/SurajSia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--**SurajSia/SurajSia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+<--Here are some ideas to get you started: -->
+<h1 align="center">Hi 👋, I'm SurajSai</h1>
+<h3 align="center">Programmer & Computer Nerd from Tamil Nadu</h3>
 
 - <h3>🔭 I’m currently working on Automated KeyLogger with deadpoolstark3</h3>
 - <h3>🌱 I’m currently learning programming with RUST </h3>
