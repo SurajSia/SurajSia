@@ -1,10 +1,12 @@
 <--### Hi there 👋-->
 
 
-<--**SurajSia/SurajSia** is a ✨ _special_ ✨ repository![hithere](https://github.com/SurajSia/SurajSia/assets/132142902/72d7b890-3c7f-4e2b-bf25-df9c163bb8c7)
+<--**SurajSia/SurajSia** is a ✨ _special_ ✨ repository!
+
  because its `README.md` (this file) appears on your GitHub profile.-->
 
 <--Here are some ideas to get you started: -->
+[hithere](https://github.com/SurajSia/SurajSia/assets/132142902/72d7b890-3c7f-4e2b-bf25-df9c163bb8c7)
 <h1 align="center">Hi 👋, I'm SurajSai</h1>
 <h3 align="center">Programmer & Computer Nerd from Tamil Nadu</h3>
 
