@@ -1,6 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Suraj Sai</h1>
 <h3 align="center">Programmer & Computer Nerd from Tamil Nadu</h3>
 
+![hithere](https://github.com/SurajSia/SurajSia/assets/132142902/8470c012-bb8e-4b86-8dc4-0451f004003c)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajsai&label=Profile%20views&color=0e75b6&style=flat" alt="surajsai" /> </p>
 
 - 🔭 I’m currently working on [__Bash__Inings__](https://github.com/SurajSia/__Bash__Inings__.git)
