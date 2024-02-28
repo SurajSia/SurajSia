@@ -3,7 +3,7 @@ Certainly! Here's a neater version of your profile:
 ---
 
 <h1 align="center">Hi 👋, I'm SurajSai</h1>
-<h3 align="center">Junior Web Developer (Intern) @ Corzio #WIPRO</h3>
+<h3 align="center"> Cloud Computing (Intern) @ CorzioEDU #WIPRO</h3>
 
 - 🔭 I’m currently working on [__Bash__Inings__](https://github.com/SurajSia/__Bash__Inings__.git)
 
