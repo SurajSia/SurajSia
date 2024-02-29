@@ -13,7 +13,7 @@ Certainly! Here's a neater version of your profile:
 
 - 💬 Ask me about **Computer Science & Engineering**
 
-- 📫 How to reach me **surajsaiis20@gmail.com**
+- 📫 How to reach me **surajsaiis20@gmail.com**https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fnaruto-gif-naruto-discover-share-gifs--928726754381758399%2F&psig=AOvVaw1UdS-ZOXrncxk-TNsu1aFV&ust=1709270580182000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDqx5_nz4QDFQAAAAAdAAAAABAE
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
