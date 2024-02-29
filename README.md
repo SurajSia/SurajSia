@@ -1,7 +1,6 @@
 Certainly! Here's a neater version of your profile:
 
----![hithere](https://github.com/SurajSia/SurajSia/assets/132142902/743c2998-a668-4b82-9725-f9714120ac25)
-
+---![hithere]
 
 <h1 align="center">Hi 👋, I'm SurajSai</h1>
 <h3 align="center"> Cloud Computing (Intern) @ CorzioEDU #WIPRO</h3>
