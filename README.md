@@ -1,6 +1,4 @@
-Certainly! Here's a neater version of your profile:
 
----![hithere]
 
 <h1 align="center">Hi 👋, I'm SurajSai</h1>
 <h3 align="center"> Cloud Computing (Intern) @ CorzioEDU #WIPRO</h3>
