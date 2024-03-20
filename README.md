@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [__Bash__Inings__](https://github.com/SurajSia/__Bash__Inings__.git)
 
-- 🌱 I’m currently learning **coding interview questions (2025)**
+- 🌱 I’m currently preparing for **campus placements (2025)**
 
 - 🤝 I’m looking for help with [key_logger](https://github.com/SurajSia/__Bash__Inings__.git)
 
