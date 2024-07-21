@@ -12,14 +12,14 @@
 - 💬 Ask me about **What will you do , if i give you internship ?**
 
 - 📫 How to reach me **surajsaiis20@gmail.com**
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Online Media:</h3>
 <p align="left">
   <a href="https://codepen.io/@gudala-sai-suraj-21cs049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@gudala-sai-suraj-21cs049" height="30" width="40" /></a>
   <a href="https://twitter.com/@surajsai65471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@surajsai65471" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/surajsai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajsai" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Can Use & Program with:</h3>
+<h3 align="left">Can Able To Use & Programs with:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
