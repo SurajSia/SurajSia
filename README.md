@@ -4,7 +4,7 @@
 <h3><p align="left"> With Back-Ground 
   <a href="https://en.wikipedia.org/wiki/Computer_science_and_engineering" target="blank"><img align="center" src="https://banner2.cleanpng.com/20180419/vlw/kisspng-computer-icons-computer-terminal-cmd-exe-command-terminal-vector-5ad8d746e47909.1917562115241603269358.jpg" alt="https://rmkcet.ac.in/" height="30" width="40" /></a> ComputerScience & Engineering </p>
   
-- 🌱 I’m currently preparing for **campus placements (2025)**
+- 🌱 I’m currently preparing for **campus placements (2024)**
   
 - 🔭 I’m working on [__Bash__Inings__](https://github.com/SurajSia/__Bash__Inings__.git)
 
