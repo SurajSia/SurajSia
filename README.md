@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [key_logger](https://github.com/SurajSia/__Bash__Inings__.git)
 
-- 💬 Ask me about **Computer Science & Engineering**
+- 💬 Ask me about **What will you do , if i give you internship ?**
 
 - 📫 How to reach me **surajsaiis20@gmail.com**
 <h3 align="left">Connect with me:</h3>
