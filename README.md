@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [key_logger](https://github.com/SurajSia/__Bash__Inings__.git)
 
-- 💬 Ask me about **What will you do , if i give you internship ?**
+- 💬 Ask me about **What are you capable of ?**
 
 - 📫 How to reach me ##[surajsaiis20@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKHRMTPMdDXLxPFpDVqhVmJLzTHgJHhHfdTRBlWwrPcNDThWHGPzWFxKJfwrGGplCLRqNmL)
 <h3 align="left">Online Media:</h3>
